@@ -28,19 +28,19 @@
 
         <table id="anotherBoard" class="board">
             <tr>
-                <td id="one" class="even"></td>
-                <td id="two"></td>
-                <td id="three" class="even"></td>
-            </tr>
-            <tr>
-                <td id="four"></td>
-                <td id="five" class="even"></td>
-                <td id="six"></td>
-            </tr>
-            <tr>
-                <td id="seven" class="even"></td>
-                <td id="eight"></td>
                 <td id="nine" class="even"></td>
+                <td id="eight"></td>
+                <td id="seven" class="even"></td>
+            </tr>
+            <tr>
+                <td id="six"></td>
+                <td id="five" class="even"></td>
+                <td id="four"></td>
+            </tr>
+            <tr>
+                <td id="three" class="even"></td>
+                <td id="two"></td>
+                <td id="one" class="even"></td>
             </tr>
         </table>
 
